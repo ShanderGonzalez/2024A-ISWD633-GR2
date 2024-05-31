@@ -44,10 +44,8 @@ docker pull nginx:alpine
 ```
 docker images
 ```
-
-```
 ![image](https://github.com/ShanderGonzalez/2024A-ISWD633-GR2/assets/94009521/469da03b-1cad-4d3b-8773-a6e6db5a54d3)
-```
+
 
 **Identificadores**
 En Docker, se utilizan varios identificadores para diferenciar de manera única los elementos del sistema, como imágenes, contenedores, volúmenes y redes. Estos identificadores son generados automáticamente por Docker y son únicos dentro del contexto del sistema Docker en el que se encuentran. 
